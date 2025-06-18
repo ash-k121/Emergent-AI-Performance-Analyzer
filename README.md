@@ -1,6 +1,7 @@
 # 📊 Emergent AI Effectiveness Analysis
 
 This project evaluates the **performance and trustworthiness of an Emergent AI system** deployed between **November 2023 and October 2024**, using a combination of **self-generated user-level and weekly aggregate datasets**. The analysis was visualized using **Tableau dashboards**, focusing on behavioral and performance indicators.
+![image](https://github.com/user-attachments/assets/ba241e37-e097-431d-9c32-a31f7d7bf462)
 
 ---
 
